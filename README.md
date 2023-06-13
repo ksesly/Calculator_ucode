@@ -50,21 +50,24 @@ We have two fields:
 | <img src="https://imgur.com/fuQFp89.png">  | <img src="https://imgur.com/HRp8Vzy.png">|
 
 ### Advanced
-    >Here begins magic
-    >Display remains same, but keyboard is new
+>Here begins magic
+>Display remains same, but keyboard is new
 
 ### Keyboard
-    > **x^n** - x will be raised to n
-    > **sqrt** - finds square root of number
-    >**n!** - factorial of number
-    > **\>.<** - is just a placeholder :D
+> **x^n** - x will be raised to n
+> 
+> **sqrt** - finds square root of number
+> 
+>**n!** - factorial of number
+>
+> **\>.<** - is just a placeholder :D
 
 
 <img src="https://imgur.com/F0jGXpl.png" width="300px">
 
 ### What unsual can be done?
-    >As it was mentioned before calculator was build with soul, so it can help even in strange situation
-    > For example, you badly need to know, what is factorial of one percent of square root of 900 000 
+>As it was mentioned before calculator was build with soul, so it can help even in strange situation
+>For example, you badly need to know, what is factorial of one percent of square root of 900 000 
 
 | How it looks | Result |
 | :---: |  :---: |
